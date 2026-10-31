@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = ./mobile/.git
+[submodule "servidor"]
+	path = servidor
+	url = ./servidor/.git
